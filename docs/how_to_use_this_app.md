@@ -1,29 +1,29 @@
 ---
-sidebar_position: 1
+侧栏_位置：1
 ---
 
-# How to use this app
+#如何使用这个应用程序
 
-## Get profile file
+##获取档案
 
-### Import profile from VPN service provider
+###从VPN（Virtual Private Network，虚拟专用网）服务提供商导入配置文件
 
-Surfboard support Surge profile format
+冲浪板支撑浪涌剖面格式
 
-### Import profile written by you
+###导入简介
 
-Write your own profile file meet your requirement and import the profile file into this app. 
+编写自己的配置文件满足您的要求，并导入配置文件到这个应用程序。
 
-You can refer to the profile format documentation [here](/docs/profile-format/overview)
+您可以参考概要格式文档[在这里](/docs/profile-format/overview)
 
-## Start VPN
+##开始VPN（Virtual Private Network，虚拟专用网）
 
-TODO
+一切
 
-## Change proxy group selection
+##更改代理组选择
 
-TODO
+一切
 
-## Speed test
+##速度测试
 
-TODO
+一切
